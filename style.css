@@ -1858,9 +1858,10 @@ img {
 .contact-content .contact-social-info a {
   display: inline-block;
   margin-right: 20px;
-  font-size: 14px;
+  font-size: 24px;
   color: #000000;
 }
+
 .contact-content .contact-social-info a:hover,
 .contact-content .contact-social-info a:focus {
   color: #232323;
