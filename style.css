@@ -861,7 +861,7 @@ img {
   text-align: center;
   position: relative;
   z-index: 1;
-  padding: 30px 15px;
+  padding: 30px 1px;
   background-color: #000;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
